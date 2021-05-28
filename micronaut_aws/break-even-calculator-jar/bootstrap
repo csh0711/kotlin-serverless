@@ -1,0 +1,3 @@
+#!/bin/sh
+set -euo pipefail
+./break-even-calculator -Xmx512m
